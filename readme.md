@@ -26,7 +26,7 @@ const goToWork= function(day){
 goToWork('Wednesday')
 
 # Example 2
-    onst goForRun = function(weather){
+    const goForRun = function(weather){
     if (weather === 'Sunny'){
     return true;
  }  
